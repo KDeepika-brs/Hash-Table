@@ -15,3 +15,5 @@
 ###### push
 ###### charCodeAt
 ###### function
+###### Array
+###### Dictionaries
